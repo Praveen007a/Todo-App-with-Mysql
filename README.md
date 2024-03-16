@@ -4,6 +4,7 @@ My first spring boot application implemented by java, mysql database. spring boo
 The following steps are performed,
 
 Step 01 - Creating Spring Boot Web Application with Spring Initializr
+
 Step 02 - Quick overview of Spring Boot Project
 Step 03 - First Spring MVC Controller, @ResponseBody, @Controller
 Step 04 - Enhancing Spring MVC Controller to provide HTML response
